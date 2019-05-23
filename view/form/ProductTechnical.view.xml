@@ -1,0 +1,28 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.ProductTechnicalForm"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:f="sap.ui.layout.form">
+	<f:SimpleForm
+		id="technicalForm"
+		class="sapUiForceWidthAuto sapUiResponsiveMargin"
+		editable="false"
+		layout="ResponsiveGridLayout">
+		<f:content>
+			<Label id="baseUnitLabel" text="{/#SEPMRA_C_PD_ProductType/ProductBaseUnit/@sap:label}"/>
+			<Text id="baseUnitText" text="{to_ProductBaseUnit/UnitOfMeasure_Text}"/>
+			<Label id="heightLabel" text="{/#SEPMRA_C_PD_ProductType/Height/@sap:label}"/>
+			<Text id="heightText"
+			      text="{parts:[{path : 'Height', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }, {path: 'to_DimensionUnit/UnitOfMeasure_Text'}], formatter: '.formatter.formatMeasure' }"/>
+			<Label id="widthLabel" text="{/#SEPMRA_C_PD_ProductType/Width/@sap:label}"/>
+			<Text id="widthText"
+			      text="{parts:[{path: 'Width', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }, {path: 'to_DimensionUnit/UnitOfMeasure_Text'}], formatter: '.formatter.formatMeasure' }"/>
+			<Label id="depthLabel" text="{/#SEPMRA_C_PD_ProductType/Depth/@sap:label}"/>
+			<Text id="depthText"
+			      text="{parts:[{path: 'Depth', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }, {path: 'to_DimensionUnit/UnitOfMeasure_Text'}], formatter: '.formatter.formatMeasure' }"/>
+			<Label id="weightLabel" text="{/#SEPMRA_C_PD_ProductType/Weight/@sap:label}"/>
+			<Text id="weightText"
+			      text="{parts:[{path: 'Weight', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }, {path: 'to_WeightUnit/UnitOfMeasure_Text'}], formatter: '.formatter.formatMeasure' }"/>
+		</f:content>
+	</f:SimpleForm>
+</mvc:View>

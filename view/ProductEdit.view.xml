@@ -1,0 +1,142 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.ProductEdit"
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:semantic="sap.m.semantic"
+	xmlns:l="sap.ui.layout"
+	xmlns:f="sap.ui.layout.form"
+	xmlns:smart="sap.ui.comp.smartfield"
+	xmlns:footerbar="sap.ushell.ui.footerbar">
+	<semantic:DetailPage id="page" navButtonPress="onNavBack" showNavButton="{device>/system/phone}"
+		title="{= ${appProperties>/productId} ? ${i18n>xtit.productEdit} : ${i18n>xtit.productNew} }">
+		<semantic:content>
+			<!-- Form for Product Information  -->
+			<f:SimpleForm class="sapUiForceWidthAuto sapUiResponsiveMargin" minWidth="1024" maxContainerCols="2" editable="true"
+				layout="ResponsiveGridLayout" labelSpanL="4" labelSpanM="4" emptySpanL="1" emptySpanM="1" columnsL="7" columnsM="7" id="simp1"
+				title="{i18n>xtit.generalInfo}">
+				<f:content>
+					<Label id="productTextLabel" text="{/#SEPMRA_C_PD_ProductType/to_ProductTextInOriginalLang/Name/@sap:label}" required="true"
+						labelFor="productNameInput"/>
+					<Input id="productNameInput" type="Text" editable="{editView>/dataLoaded}" change="onInputChange"
+						maxLength="{path: '/#SEPMRA_C_PD_ProductType/to_ProductTextInOriginalLang/Name/@maxLength', formatter: 'Number'}"
+						value="{to_ProductTextInOriginalLang/Name}"/>
+					<Label id="priceLabel"
+						text="{parts:[{path: 'i18n>xfld.textConcat'}, {path: '/#SEPMRA_C_PD_ProductType/Price/@sap:label'}, {path: '/#I_CurrencyType/Currency/@sap:label'}], formatter: 'jQuery.sap.formatMessage'}"
+						required="true" labelFor="price"/>
+					<Input id="price" editable="{editView>/dataLoaded}" change="onNumberChange"
+						value="{parts: [ {path: 'Price'}, {path: 'Currency'}], type : 'sap.ui.model.type.Currency', formatOptions: { parseAsString: true, showMeasure: false } }"
+						type="Text" textAlign="Right"/>
+					<ComboBox id="currency" ariaLabelledBy="currencyLabel" selectedKey="{Currency}"
+						editable="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }" change="onInputChange"
+						items="{path: '/I_Currency', length: '300', events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="currencyItem" key="{Currency}" text="{Currency}"/>
+					</ComboBox>
+					<Label id="mainCategoryLabel" text="{/#SEPMRA_I_ProductMainCategoryType/MainProductCategory/@sap:label}" required="true" labelFor="category"/>
+					<ComboBox id="category" editable="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }"
+						selectionChange="onCategoryChange" selectedKey="{path: 'to_ProductCategory/MainProductCategory', mode: 'OneWay'}"
+						items="{path: '/SEPMRA_I_ProductMainCategory', events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="maincategoryItem" key="{MainProductCategory}" text="{MainProductCategory}"/>
+					</ComboBox>
+					<Label id="productIdLabel" text="{/#SEPMRA_C_PD_ProductType/ProductForEdit/@sap:label}" labelFor="productId"/>
+					<Input id="productId" editable="false" value="{ProductForEdit}"/>
+					<Label id="descriptionIdLabel" text="{/#SEPMRA_C_PD_ProductTextType/Description/@sap:label}" required="true" labelFor="description"/>
+					<TextArea id="description" maxLength="{path: '/#SEPMRA_C_PD_ProductTextType/Description/@maxLength', formatter: 'Number'}"
+						editable="{editView>/dataLoaded}" change="onInputChange" value="{to_ProductTextInOriginalLang/Description}"/>
+				</f:content>
+			</f:SimpleForm>
+			<!-- Form for Physical Properties -->
+			<f:SimpleForm class="sapUiForceWidthAuto sapUiResponsiveMargin" minWidth="1024" maxContainerCols="2" editable="true"
+				layout="ResponsiveGridLayout" id="simp2" labelSpanL="4" labelSpanM="4" emptySpanL="1" emptySpanM="1" columnsL="7" columnsM="7"
+				title="{i18n>xtit.techData}">
+				<f:content>
+					<Label id="baseUnitLabel" text="{/#SEPMRA_C_PD_ProductType/ProductBaseUnit/@sap:label}" required="true" labelFor="unitOfMeasure"/>
+					<ComboBox id="unitOfMeasure" selectedKey="{ProductBaseUnit}"
+						editable="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }" change="onInputChange"
+						items="{path: '/SEPMRA_I_QuantityUnit', sorter: {path: 'UnitOfMeasure_Text', descending: false}, events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="baseUnitItem" key="{UnitOfMeasure}" text="{UnitOfMeasure_Text}"/>
+					</ComboBox>
+					<Label id="heightLabel"
+						text="{parts:[{path: 'i18n>xfld.textConcat'}, {path: '/#SEPMRA_C_PD_ProductType/Height/@sap:label'}, {path: '/#SEPMRA_C_PD_ProductType/DimensionUnit/@sap:label'}], formatter: 'jQuery.sap.formatMessage'}"
+						labelFor="height"/>
+					<Input id="height" type="Text" editable="{editView>/dataLoaded}" change="onNumberChange" textAlign="Right"
+						value="{path : 'Height', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }"/>
+					<Select id="height_uom" ariaLabelledBy="ariaHeightLabel" selectedKey="{DimensionUnit}"
+						enabled="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }" change="onInputChange"
+						items="{path: '/SEPMRA_I_DimensionUnit', sorter: {path: 'UnitOfMeasure_Text', descending: false}, events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="heightnitItem" key="{UnitOfMeasure}" text="{UnitOfMeasure_Text}"/>
+					</Select>
+					<Label id="widthLabel"
+						text="{parts:[{path: 'i18n>xfld.textConcat'}, {path: '/#SEPMRA_C_PD_ProductType/Width/@sap:label'}, {path: '/#SEPMRA_C_PD_ProductType/DimensionUnit/@sap:label'}], formatter: 'jQuery.sap.formatMessage'}"
+						labelFor="width"/>
+					<Input id="width" type="Text" editable="{editView>/dataLoaded}" change="onNumberChange" textAlign="Right"
+						value="{path : 'Width', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }"/>
+					<Select id="width_uom" ariaLabelledBy="ariaWidthLabel" selectedKey="{DimensionUnit}"
+						enabled="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }" change="onInputChange"
+						items="{path: '/SEPMRA_I_DimensionUnit', sorter: {path: 'UnitOfMeasure_Text', descending: false}, events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="widthUnitItem" key="{UnitOfMeasure}" text="{UnitOfMeasure_Text}"/>
+					</Select>
+					<Label id="lengthLabel"
+						text="{parts:[{path: 'i18n>xfld.textConcat'}, {path: '/#SEPMRA_C_PD_ProductType/Depth/@sap:label'}, {path: '/#SEPMRA_C_PD_ProductType/DimensionUnit/@sap:label'}], formatter: 'jQuery.sap.formatMessage'}"
+						labelFor="length"/>
+					<Input id="length" type="Text" editable="{editView>/dataLoaded}" change="onNumberChange" textAlign="Right"
+						value="{path : 'Depth', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }"/>
+					<Select id="length_uom" ariaLabelledBy="ariaLengthLabel" selectedKey="{DimensionUnit}"
+						enabled="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }" change="onInputChange"
+						items="{path: '/SEPMRA_I_DimensionUnit', sorter: {path: 'UnitOfMeasure_Text', descending: false}, events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="lengthUnitItem" key="{UnitOfMeasure}" text="{UnitOfMeasure_Text}"/>
+					</Select>
+					<Label id="weightLabel"
+						text="{parts:[{path: 'i18n>xfld.textConcat'}, {path: '/#SEPMRA_C_PD_ProductType/Weight/@sap:label'}, {path: '/#SEPMRA_C_PD_ProductType/WeightUnit/@sap:label'}], formatter: 'jQuery.sap.formatMessage'}"
+						labelFor="weight"/>
+					<Input id="weight" textAlign="Right" editable="{editView>/dataLoaded}" change="onNumberChange" type="Text"
+						value="{path : 'Weight', type : 'sap.ui.model.type.Float', constraints : { minimum: 0, maximum: 9999999999 }, formatOptions: { parseAsString: true, maxIntegerDigits: 10, maxFractionDigits: 3 } }"/>
+					<Select id="weight_uom" ariaLabelledBy="ariaWeightLabel" selectedKey="{WeightUnit}"
+						enabled="{= ${editView>/dataLoaded} &amp;&amp; ${editView>/openItemsRequest} === 0 }" change="onInputChange"
+						items="{path: '/SEPMRA_I_WeightUnit', sorter: {path: 'UnitOfMeasure_Text', descending: false}, events: { dataRequested: '.onItemsRequested', dataReceived: '.onItemsReceived' } }">
+						<core:Item id="weightUnitItem" key="{UnitOfMeasure}" text="{UnitOfMeasure_Text}"/>
+					</Select>
+				</f:content>
+			</f:SimpleForm>
+			<!-- Sub-View for Uploading/Removing Images Removed because Images are not yet supported by Application Infrastructure-->
+			<!--Allow adding fields at the bottom of the edit screen -->
+			<core:ExtensionPoint name="extensionBottomOfEditScreen"/>
+			<!--These texts are used for accessibility. Placing them near to the fields using them would disturb the layout. -->
+			<core:InvisibleText id="currencyLabel" text="{/#SEPMRA_C_PD_ProductType/Currency/@sap:label}"/>
+			<core:InvisibleText id="ariaLengthLabel" text="{i18n>xfld.length}"/>
+			<core:InvisibleText id="ariaWidthLabel" text="{i18n>xfld.width}"/>
+			<core:InvisibleText id="ariaHeightLabel" text="{i18n>xfld.height}"/>
+			<core:InvisibleText id="ariaWeightLabel" text="{/#SEPMRA_C_PD_ProductType/WeightUnit/@sap:label}"/>
+		</semantic:content>
+		<semantic:messagesIndicator>
+			<semantic:MessagesIndicator id="messagesIndicator" press="onMessageIndicator"/>
+		</semantic:messagesIndicator>
+		<semantic:draftIndicator>
+			<DraftIndicator id="draftIndicator" state="{appProperties>/draftIndicatorState}"/>
+		</semantic:draftIndicator>
+		<semantic:saveAction>
+			<semantic:SaveAction id="save" press="onSave"/>
+		</semantic:saveAction>
+		<semantic:cancelAction>
+			<semantic:CancelAction id="cancel" enabled="{= !${appProperties>/isMultiSelect} }" press="onCancel">
+				<semantic:dependents>
+					<Popover id="cancelPopover" placement="Top" showHeader="false">
+						<l:VerticalLayout id="cancelLayout" class="sapUiContentPadding" width="100%">
+							<l:content>
+								<!-- <Text id="cancelText" text="{i18n>ymsg.cancelEdit}" /> -->
+								<Text id="cancelText" text="{= ${HasActiveEntity} ? ${i18n>ymsg.cancelEdit} : ${i18n>ymsg.cancelCreate} }"/>
+								<Button id="cancelButton" text="{i18n>xbut.discard}" press="onDiscard" width="100%"/>
+							</l:content>
+						</l:VerticalLayout>
+					</Popover>
+				</semantic:dependents>
+			</semantic:CancelAction>
+		</semantic:cancelAction>
+		<semantic:sendEmailAction>
+			<semantic:SendEmailAction id="shareEmail" press="sendEmail"/>
+		</semantic:sendEmailAction>
+		<semantic:saveAsTileAction>
+			<footerbar:AddBookmarkButton id="shareTile" title="{path: 'ProductForEdit', formatter:'.formatter.tileTitleDisplay'}"/>
+		</semantic:saveAsTileAction>
+	</semantic:DetailPage>
+</mvc:View>

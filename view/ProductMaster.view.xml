@@ -1,0 +1,109 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.ProductMaster"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m"
+	xmlns:semantic="sap.m.semantic">
+	<semantic:MasterPage
+		id="page"
+		title="{path:'masterView>/itemCount', formatter: '.formatter.listTitle' }">
+		<semantic:subHeader>
+			<Bar id="headerBar">
+				<contentMiddle>
+					<SearchField
+						id="searchField"
+						showRefreshButton="{= !${device>/support/touch} }"
+						refreshButtonTooltip="{i18n>xtol.masterSearchTooltip}"
+						tooltip="{i18n>xtol.refreshButtonTooltip}"
+						width="100%"
+						search="onSearch"/>
+				</contentMiddle>
+			</Bar>
+		</semantic:subHeader>
+		<semantic:content>
+			<PullToRefresh
+				id="pullToRefresh"
+				visible="{device>/support/touch}"
+				refresh="onRefresh"/>
+			<List
+				id="list"
+				busyIndicatorDelay="{= ${appProperties>/masterImmediateBusy} ? 0 : ${masterView>/originalBusyDelayList} }"
+				noDataText="{appProperties>/listNoDataText}"
+				mode="{= ${appProperties>/isMultiSelect} ? 'MultiSelect' : (${device>/system/phone} ? 'None' : 'SingleSelectMaster') }"
+				growing="true"
+				growingScrollToLoad="true"
+				modeAnimationOn="false"
+				selectionChange="onSelectionChange"
+				swipe="onSwipe">
+				<infoToolbar>
+					<Toolbar
+						active="true"
+						id="filterBar"
+						visible="{masterView>/isFilterBarVisible}"
+						press="onFilter">
+						<Title id="filterBarLabel" text="{masterView>/filterBarLabel}"/>
+					</Toolbar>
+				</infoToolbar>
+				<swipeContent>
+					<Button
+						id="swipeButton"
+						text="{i18n>xbut.delete}"
+						enabled="{masterView>/swipeEnabled}"
+						type="Reject"
+						press="onSwipeDeleteItem"/>
+				</swipeContent>
+				<!--
+					Comments to attribute "markLocked": items that are marked as locked are active items where the corresponding draft
+					is locked by a user other than the current user and cannot therefore be changed by the current user. When the lock is removed
+					by the backend system, the "InProcessByUser" field is cleared and editing is allowed. The user who created the draft continues
+					to work on the changes he made.  Other users get a draft based on the active version.
+				-->
+				<ObjectListItem
+					id="objectListItem"
+					type="{= ${device>/system/phone} ? 'Active' : 'Inactive'}"
+					press="onSelectionChange"
+					icon="{path: 'ProductPictureURL', formatter: '.formatter.formatImageUrl'}"
+					iconDensityAware="false"
+					title="{= ${to_ProductTextInOriginalLang/Name} === '' ? (${HasActiveEntity} ? ${i18n>xtit.unnamedProduct} : ${i18n>xtit.productNew}) : ${to_ProductTextInOriginalLang/Name} }"
+					numberUnit="{Currency}"
+					number="{parts: [ {path: 'Price'}, {path: 'Currency'}], type : 'sap.ui.model.type.Currency', formatOptions: { showMeasure: false } }">
+					<markers>
+						<ObjectMarker id="LockedMarker" type="Locked" visible="{= ${HasDraftEntity} &amp;&amp; ${DraftAdministrativeData/InProcessByUser} !== '' }" visibility="IconOnly"/>
+						<ObjectMarker id="DraftMarker" type="Draft" visible="{= !${IsActiveEntity} }" visibility="TextOnly"/>
+						<ObjectMarker id="UnsavedMarker" type="Unsaved" visible="{= ${IsActiveEntity} &amp;&amp; ${HasDraftEntity} &amp;&amp; ${DraftAdministrativeData/InProcessByUser} === '' }"  visibility="IconAndText"/>
+					</markers>
+					<attributes>
+						<ObjectAttribute id="mainCategoryAttribute" text="{to_ProductCategory/MainProductCategory}"/>
+						<ObjectAttribute id="categoryAttribute" text="{ProductCategory}"/>
+					</attributes>
+				</ObjectListItem>
+			</List>
+		</semantic:content>
+		<semantic:multiSelectAction>
+			<semantic:MultiSelectAction
+				id="multiSelectButton"
+				pressed="{appProperties>/isMultiSelect}"
+				enabled="{= (${appProperties>/isMultiSelect} || ${masterView>/itemCount} > 0) &amp;&amp; ${appProperties>/metaDataLoadState} > 0 &amp;&amp; !${appProperties>/isSwipeRunning} }"
+				press="onMultiSelect"/>
+		</semantic:multiSelectAction>
+		<semantic:addAction>
+			<semantic:AddAction id="addButton" enabled="{= ${appProperties>/metaDataLoadState} > 0 }" press="onAdd"/>
+		</semantic:addAction>
+		<semantic:sort>
+			<semantic:SortAction id="sort" enabled="{= ${appProperties>/metaDataLoadState} > 0 }" press="onSort"/>
+		</semantic:sort>
+		<semantic:filter>
+			<semantic:FilterAction id="filter" enabled="{= ${appProperties>/metaDataLoadState} > 0 }" press="onFilter"/>
+		</semantic:filter>
+		<semantic:group>
+			<semantic:GroupAction id="group" enabled="{= ${appProperties>/metaDataLoadState} > 0 }" press="onGroup"/>
+		</semantic:group>
+		<semantic:customFooterContent>
+			<Button
+				id="deleteButton"
+				enabled="{masterView>/markExists}"
+				text="{i18n>xbut.delete}"
+				visible="{appProperties>/isMultiSelect}"
+				press="onDelete"/>
+		</semantic:customFooterContent>
+	</semantic:MasterPage>
+</mvc:View>

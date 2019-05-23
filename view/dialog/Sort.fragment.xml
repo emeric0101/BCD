@@ -1,0 +1,12 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<ViewSettingsDialog id="sortSettingsDialog" confirm="onSortDialogConfirmed">
+		<sortItems>
+			<ViewSettingsItem text="{/#SEPMRA_C_PD_ProductTextType/Name/@sap:label}" key="to_ProductTextInOriginalLang/Name"/>
+			<ViewSettingsItem text="{/#SEPMRA_C_PD_ProductType/ProductForEdit/@sap:label}" key="Product"/>
+			<ViewSettingsItem text="{/#SEPMRA_C_PD_ProductType/Price/@sap:label}" key="Price"/>
+			<ViewSettingsItem text="{/#SEPMRA_I_ProductMainCategoryType/MainProductCategory/@sap:label}" key="to_ProductCategory/MainProductCategory"/>
+			<ViewSettingsItem text="{/#SEPMRA_C_PD_ProductType/ProductCategory/@sap:label}" key="ProductCategory"/>
+			<ViewSettingsItem text="{i18n>xfld.availability}" key="to_ProductStock/Quantity"/>
+		</sortItems>
+	</ViewSettingsDialog>
+</core:FragmentDefinition>

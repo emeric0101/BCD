@@ -1,0 +1,3101 @@
+[{
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1000",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Basic 15",
+	"Description": "Notebook Basic 15 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1000",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@H∞,5 15",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1001",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Basic 17",
+	"Description": "Notebook Basic 17 with 2,80 GHz quad core, 17\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1001",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@H∞,5 17",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1002",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Basic 18",
+	"Description": "Notebook Basic 18 with 2,80 GHz quad core, 18\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1002",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@H∞,5 18",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1003",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Basic 19",
+	"Description": "Notebook Basic 19 with 2,80 GHz quad core, 19\" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1003",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@H∞,5 19",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1007",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO Vault",
+	"Description": "Digital Organizer with State-of-the-Art Storage Encryption",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1010",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Professional 15",
+	"Description": "Notebook Professional 15 with 2,80 GHz quad core, 15\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1010",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "H∞,5 15",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1011",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Professional 17",
+	"Description": "Notebook Professional 17 with 2,80 GHz quad core, 17\" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1011",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "H∞,5 17",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1020",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO Vault Net",
+	"Description": "Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1021",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO Vault SAT",
+	"Description": "Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1022",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Comfort Easy",
+	"Description": "32 GB Digital Assistant with high-resolution color screen",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1022",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÄU",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1023",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Comfort Senior",
+	"Description": "64 GB Digital Assistant with high-resolution color screen and synthesized voice output",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1023",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÿÔ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1030",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ergo Screen E-I",
+	"Description": "Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1030",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∫SÂf>:h E-I",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1031",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ergo Screen E-II",
+	"Description": "Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1031",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∫SÂf>:h E-II",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1032",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ergo Screen E-III",
+	"Description": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1032",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∫SÂf>:h E-III",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1035",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat Basic",
+	"Description": "Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1035",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@HØs>:h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1036",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat Future",
+	"Description": "Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1036",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÜHHØs>:h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1037",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat XL",
+	"Description": "Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1037",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Ö':¯Øs>:h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1040",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Laser Professional Eco",
+	"Description": "Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1040",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "HØ›ã¿ISp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1041",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Laser Basic",
+	"Description": "Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1041",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@H¿ISp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1042",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Laser Allround",
+	"Description": "Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with a first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1042",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "h˝ã¿ISp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1050",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ultra Jet Super Color",
+	"Description": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1050",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Öhir∑®Sp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1051",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ultra Jet Mobile",
+	"Description": "1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1051",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ø:Ö∑®Sp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1052",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ultra Jet Super Highspeed",
+	"Description": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1052",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÖÖÿ∑®Sp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1055",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Multi Print",
+	"Description": "1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1055",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ü˝Sp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1056",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Multi Color",
+	"Description": "1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1056",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ü˝irSp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1060",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Schnurlose Computermaus",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1060",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Cordless Mouse",
+	"Description": "Cordless Optical USB Mice, Laptop, Color: Black, Plug&Play",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1060",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "RatÛn inal·mbrico",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1060",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‚€—Ë –‹◊’ÿŸ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1060",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "‡ø ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1061",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Speed-Computermaus",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1061",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Speed Mouse",
+	"Description": "Optical USB, PS/2 Mouse, Color: Blue, 3-button-functionality (incl. Scroll wheel)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1061",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "RatÛn de alta velocidad",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1061",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Å ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1062",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Trackball-Maus",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1062",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Track Mouse",
+	"Description": "Optical USB Mouse, Color: Red, 5-button-functionality(incl. Scroll wheel), Plug&Play",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1062",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "RatÛn de seguimiento",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1062",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‚€—Ë ‚ÁŸ—‘",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1062",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ﬂ* ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1063",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Ergonomische Tastatur",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1063",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ergonomic Keyboard",
+	"Description": "Ergonomic USB Keyboard for Desktop, Plug&Play",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1063",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Teclado ergonÛmico",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1063",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÁ‹”Í –Ë“’‡’ﬁŸÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1063",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∫SÂf.ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1064",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Internet-Tastatur",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1064",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Internet Keyboard",
+	"Description": "Corded Keyboard with special keys for Internet Usability, USB",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1064",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Teclado Internet",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1064",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÁ‹”Í –Ÿ‡ÿË‡ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1064",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Q‹.ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1065",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Medien-Tastatur",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1065",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Media Keyboard",
+	"Description": "Corded Ergonomic Keyboard with special keys for Media Usability, USB",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1065",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Teclado medios",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1065",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÁ‹”Í ﬁ”Ÿ‘",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1065",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "íS.ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1066",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Mauspad",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1066",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Mousepad",
+	"Description": "Nice mouse pad with ITelO Logo",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1066",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Alfombrilla para ratÛn",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1066",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÈÿ◊ ‹‚€—Ë",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1066",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": " ´",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1067",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Ergonomisches Mauspad",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1067",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Ergo Mousepad",
+	"Description": "Ergonomic mouse pad with ITelO Logo",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1067",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Alfombrilla ergonÛmica para ratÛn",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1067",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÈÿ◊ –Ë“’‡’ﬁŸ ‹‚€—Ë",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1067",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∫SÂf ´",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1068",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Designer-Mauspad",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1068",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Designer Mousepad",
+	"Description": "ITelO Mousepad Special Edition",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1068",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Alfombrilla para ratÛn de diseÒador",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1068",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÈÿ◊ ﬁ‚’Ê— ‹‚€—Ë",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1068",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "æ° ´",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1069",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Universal-Kartenleser",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1069",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Universal card reader",
+	"Description": "Universal card reader",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1069",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Lector de tarjetas universal",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1069",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "Á’Ë– €ËÿŸ·Ÿ› –’‡Ÿ—Ë·–‹Ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1069",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "(˚ah",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1070",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Proctra X",
+	"Description": "Proctra X: PCI-E GDDR5 3072MB",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1071",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Gladiator MX",
+	"Description": "Gladiator XLN: PCI-E GDDR5 3072MB DVI Out, TV Out low-noise",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1072",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Hurricane GX",
+	"Description": "Hurricane GX: PCI-E 691 GFLOPS game-optimized",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1073",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Hurricane GX/LN",
+	"Description": "Hurricane GX/LN: PCI-E 691 GFLOPS game-optimized, low-noise.",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1080",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Photo Scan",
+	"Description": "Flatbed scanner - 9.600 ◊ 9.600 dpi - 216 x 297 mm - Hi-Speed USB - Bluetooth",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1080",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "gGkœÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1081",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Power Scan",
+	"Description": "Flatbed scanner - 9.600 ◊ 9.600 dpi - 216 x 297 mm - SCSI for backward compatibility",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1081",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "û:ãkœÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1082",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Jet Scan Professional",
+	"Description": "Flatbed scanner - Letter - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1082",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "HAkœÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1083",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Jet Scan Professional",
+	"Description": "Flatbed scanner - A4 - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1083",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "HAkœÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1085",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Copymaster",
+	"Description": "Copymaster",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1085",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Copymaster ü˝Sp:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1090",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Surround Sound",
+	"Description": "PC multimedia speakers - 5 Watt (Total)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1090",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Ø’lh",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1091",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Blaster Extreme",
+	"Description": "PC multimedia speakers - 10 Watt (Total) - 2-way",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1091",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "»Å8lh",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1092",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Sound Booster",
+	"Description": "PC multimedia speakers - optimized for Blutooth/A2DP",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1092",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "û:ãlh",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1100",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Office",
+	"Description": "Complete package, 1 User, Office Applications (word processing, spreadsheet, presentations)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1100",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝ûlWˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1101",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Design",
+	"Description": "Complete package, 1 User, Image editing, processing",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1101",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝æ°Wˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1102",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Network",
+	"Description": "Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1102",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝Q‹Wˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1103",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Multimedia",
+	"Description": "Complete package, 1 User, different Multimedia applications, playing music, watching DVDs, only with this Smart package",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1103",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝íSWˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1104",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Games",
+	"Description": "Complete package, 1 User, various games for amusement, logic, action, jump&run",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1104",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝8Wˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1105",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Internet Antivirus",
+	"Description": "Complete package, 1 User, highly recommended for internet users as anti-virus protection",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1105",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝Q‹@“Wˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1106",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Firewall",
+	"Description": "Complete package, 1 User, recommended for internet users, protect your PC against cyber-crime",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1106",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝2kôWˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1107",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smart Money",
+	"Description": "Complete package, 1 User, bring your money in your mind, see what you have and what you want",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1107",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝"Wˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1110",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "PC-Schloss",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1110",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "PC Lock",
+	"Description": "Robust 3m anti-burglary protection for your laptop computer",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1110",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Candado para PC",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1110",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "5",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1111",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Notebook-Schloss",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1111",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Notebook Lock",
+	"Description": "Robust 1m anti-burglary protection for your desktop computer",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1111",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Candado para Notebook",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1111",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∞,5",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1112",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Web cam reality",
+	"Description": "Color webcam, color, High-Speed USB",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1112",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Realidad Web Cam",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1112",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÿQ‹Dœ4",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1113",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Bildschirmreiniger",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1113",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Screen clean",
+	"Description": "10 separately packed screen wipes",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1113",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Limpieza de la pantalla",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1113",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "OUW≈",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1114",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Stofftasche Professional",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1114",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Fabric bag professional",
+	"Description": "Notebook bag, plenty of room for stationery and writing materials",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1114",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Bolsa de tela profesional",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1114",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "bô5",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1115",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Kabelloser DSL-Router",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1115",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Wireless DSL Router",
+	"Description": "Wireless DSL Router (available in blue, black and silver)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1115",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Router DSL inal·mbrico",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1115",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‡Í— –‹◊’ÿŸ ‹ÍÈÍŸÍ DSL",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1115",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "‡ø DSL Ô1h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1116",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Kabelloser DSL-Router / -Repeater",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1116",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Wireless DSL Router / Repeater",
+	"Description": "Wireless DSL Router / Repeater (available in blue, black and silver)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1116",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Router/repetidor DSL inal·mbrico",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1116",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‡Í— –‹◊’ÿŸ / Repeater ‹ÍÈÍŸÍ DSL",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1116",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "‡ø DSL Ô1h/l—h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1117",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Kabelloser DSL-Router / -Repeater und Druckerserver",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1117",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Wireless DSL Router / Repeater and Print Server",
+	"Description": "Wireless DSL Router / Repeater and Print Server (available in blue, black and silver)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1117",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Router/repetidor DSL inal·mbrico y servidor de impresiÛn",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1117",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‡Í— –‹◊’ÿŸ / Repeater ’ÈËÍ ‘”‰·’Í ‹ÍÈÍŸÍ DSL",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1117",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "‡ø DSL Ô1h/l—håSp°h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1118",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "USB-Stick",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1118",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "USB Stick",
+	"Description": "USB 2.0 High-Speed 64 GB",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1118",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Memoria USB",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1118",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‘◊·ﬂ USB ‡ŸŸ”",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1118",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "USB X®h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1120",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Schnurlose Bluetooth-Tastatur, US-International",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1120",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Cordless Bluetooth Keyboard, english international",
+	"Description": "Cordless Bluetooth Keyboard with English keys",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1120",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Teclado Bluetooth inal·mbrico, inglÈs internacional",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1120",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁÁ‹”Í –‹◊’ÿŸÍ —ÿ€‡’‹’“ŸŸÍ Bluetooth, –‡“‹ŸÍ —Ÿ‡‹–’ﬁŸÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1120",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÒÌ˝E‡ø›Y.ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1137",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat XXL",
+	"Description": "Optimum Hi-Resolution max. 2048 ◊ 1536 @ 85Hz, Dot Pitch: 0.24mm",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1137",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "y':¯Øs>:h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1138",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Taschen-Computermaus",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1138",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Pocket Mouse",
+	"Description": "Portable pocket Mouse with retracting cord",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1138",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "RatÛn de bolsillo",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1138",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‚€—Ë Á’ﬁ‰ÁÿŸ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1138",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ñÕ ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1210",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "PC Power Station",
+	"Description": "PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like a PC, OS 8 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1210",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "·‰Á €’◊ ‹ﬁ◊È— –ŸÈŸ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1210",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "û:ãÂ\Ÿ°ó:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1500",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Server Basic",
+	"Description": "Dual socket, quad-core processing server with 1333 MHz Front Side Bus with 10Gb connectivity",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1500",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@°h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1501",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Server Professional",
+	"Description": "Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 10Gb connectivity",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1501",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "°h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1502",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Server Power Pro",
+	"Description": "Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 100Gb connectivity",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1502",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "û:ã°h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6130",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat Watch HD32",
+	"Description": "32-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6130",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "s5∆ HD32",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6131",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat Watch HD37",
+	"Description": "37-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6131",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "s5∆ HD37",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6132",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Flat Watch HD41",
+	"Description": "41-inch, 1366x768 Pixel, 16:9, HDTV ready",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6132",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "s5∆ HD41",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-7030",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Platinberry",
+	"Description": "Our new multifunctional Handheld with phone function in platinum",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-7020",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Goldberry",
+	"Description": "Our new multifunctional Handheld with phone function in gold",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-7010",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Silverberry",
+	"Description": "Our new multifunctional Handheld with phone function in silver",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-7000",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Copperberry",
+	"Description": "Our new multifunctional Handheld with phone function in copper",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1095",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Lovely Sound 5.1 Wireless",
+	"Description": "5.1 Headset, 40 Hz-20 kHz, Wireless",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1095",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "‡ø Lovely Sound 5.1 3:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1096",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Lovely Sound 5.1",
+	"Description": "5.1 Headset, 40 Hz-20 kHz, 3m cable",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1096",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Lovely Sound 5.1 3:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1097",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Lovely Sound Stereo",
+	"Description": "5.1 Headset, 40 Hz-20 kHz, 1m cable",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1097",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "ÀS Lovely Sound 5.1 3:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6123",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Power Pro Player 80",
+	"Description": "MP3-Player with 80 GB SSD and Color Display, can play movies",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6123",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Power Pro ≠>h 80",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6122",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Power Pro Player 40",
+	"Description": "MP3-Player with 40 GB HDD and Color Display, can play movies",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6122",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Power Pro ≠>h 40",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6121",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelo Jog-Mate",
+	"Description": "ITelo Jog-Mate 64 GB HDD and Color Display, can play movies",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6120",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelo MusicStick",
+	"Description": "64 GB USB Music-on-a-Stick",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6111",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Record Movie",
+	"Description": "160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6111",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Record Movie ≠>h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6110",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Play Movie",
+	"Description": "CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6110",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Play Movie ≠>h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6102",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Beam Breaker B-3",
+	"Description": "1080p, DLP max. 12,3 Meter, 3D-ready",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6102",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Beam Breaker B-3 ïqÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6101",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Beam Breaker B-2",
+	"Description": "1080p, DLP max.9,34 Meter, 2D-ready",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6101",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Beam Breaker B-2 ïqÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2002",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Tragbarer DVD-Player mit 9''-LCD-Monitor",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2002",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Portable DVD Player with 9\" LCD Monitor",
+	"Description": "9\" LCD Screen, storage holds up to 8 hours, 2 speakers included",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2002",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Reproductor DVD port·til con monitor LCD de 9\"",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2002",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‡“ﬂ DVD ‡ŸŸ” ‚› Ê“ LCD —“’”‹ 9 –Ÿ‡Â'",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2002",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "M 9 ¯ LCD >:hÑø: DVD ≠>h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6100",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Beam Breaker B-1",
+	"Description": "720p, DLP Projector max. 8,45 Meter, 2D",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-6100",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Beam Breaker B-1 ïqÍ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2027",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Austauschbare CD- / DVD-Laserbeschriftungen",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2027",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Removable CD/DVD Laser Labels",
+	"Description": "Removable jewel case labels, zero residues (100)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2027",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Etiquetas l·ser para CD/DVD extraÌbles",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2027",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁ”—Á’Í ‹ŸŸ÷Ë ‡ŸÍ‡’Í ‹‘·Ë‘ ‚—’Ë CD/DVD",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2027",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Ô˚d CD/DVD ¿I~",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2026",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Audio- / Videokabelset - 4m",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2026",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Audio/Video Cable Kit - 4m",
+	"Description": "Quality cables for notebooks and projectors",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2026",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Juego de cables de audio/vÌdeo (4 m)",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2026",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‚Ë€Í €—‹Ÿ –’”Ÿ’/’Ÿ”Ÿ–’ - 4 ﬁÿËŸ›",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2026",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "4 sÛë/∆ë5Wˆ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2025",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "CD- / DVD-H¸lle 264 Laptoptaschen",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2025",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "CD/DVD case: 264 sleeves",
+	"Description": "Organizer and protective case for 264 CDs and DVDs",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2025",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Caja de CD/DVD: 264 cajas",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2025",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁ–Ë÷ ‚—’Ë CD/DVD: 264 €Ÿ·Ÿ›",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2025",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "CD/DVD 264 GÿW",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2001",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Tragbarer 10''-DVD-Player",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2001",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "10\" Portable DVD player",
+	"Description": "10\" LCD Screen, storage battery holds up to 8 hours",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2001",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Reproductor DVD port·til de 10\"",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2001",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‡“ﬂ DVD ‡ŸŸ” —“’”‹ 10 –Ÿ‡Â'",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2001",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "10 ¯ø: DVD ≠>h",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2000",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Tragbarer 7''-Breitbild-DVD-Player mit MP3",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2000",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "7\" Widescreen Portable DVD Player w MP3",
+	"Description": "7\" LCD Screen, storage battery holds up to 6 hours!",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2000",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Reproductor DVD port·til de pantalla panor·mica de 7\" con MP3",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2000",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "‡“ﬂ DVD ‡ŸŸ” ‚› ﬁ·⁄ Ë◊— —“’”‹ 7 –Ÿ‡Â' ‘Í’ﬁ⁄ —Á’—ÊŸ MP3",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-2000",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "7 ¯ΩOø: DVD ≠>h/ MP3	",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1603",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Gaming Monster Pro",
+	"Description": "3,4 Ghz quad core, 16 GB DDR3 SDRAM, 4000 GB Hard Disc, Graphic Card: Hurricane GX, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1603",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "8ß°ó:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1602",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Gaming Monster",
+	"Description": "3,4 Ghz quad core, 8 GB DDR3 SDRAM, 2000 GB Hard Disc, Graphic Card: Gladiator MX, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1602",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "8ß°ó:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1601",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Family PC Pro",
+	"Description": "2,8 Ghz dual core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Graphic Card: Gladiator MX, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1601",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "∂(°ó:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1600",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Family PC Basic",
+	"Description": "2,8 Ghz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Graphic Card: Proctra X, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1600",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˙@∂(°ó:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1119",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Reiseadapter",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1119",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Travel Adapter",
+	"Description": "Universal Travel Adapter",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1119",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Adaptador de viaje",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1119",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "≈LMh",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-8000",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO FlexTop I4000",
+	"Description": "Notebook with 2,80 GHz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-8001",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO FlexTop I6300c",
+	"Description": "Notebook with 2,80 GHz dual core, 8 GB DDR3 SDRAM, 500 GB Hard Disc, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-8002",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO FlexTop I9100",
+	"Description": "Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-8003",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "ITelO FlexTop I9800",
+	"Description": "Notebook with 2,80 GHz quad core, 8 GB DDR3 SDRAM, 1000 GB Hard Disc, OS 8",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9999",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Maxi Tablet",
+	"Description": "10.1-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9999",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁ◊È— ‹’◊ “”’‹",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9999",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Maxi s5",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9998",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smartphone Beta",
+	"Description": "5 Megapixel Camera, Wi-Fi 802.11 b/g/n, Bluetooth, GPS A-GPS support",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9998",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ÿ‹‰’ﬂ ◊€› —ÿ–",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9998",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝K: Beta H",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9997",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "e-Book Reader ReadMe",
+	"Description": "6-Inch E Ink Screen, Access To e-book Store, Adjustable Font Styles and Sizes, Stores Up To 1,000 Books",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9997",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Lector de e-books ReadMe",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9997",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "Á’—Â ReadMe È‹ Á’Ë– ·‰ËŸ› –‹ÁÿË’‡Ÿ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9997",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "5Pf˚h ReadMe",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9996",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Tablet-Beutel",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9996",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Tablet Pouch",
+	"Description": "Stylish tablet pouch, protects from scratches, color: black",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9996",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Funda para tablet",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9996",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "€Ÿ·’Ÿ ‹ﬁ◊È— ‹’◊",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9996",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "s5§W",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9995",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smartphone Cover",
+	"Description": "Durable high quality plastic bump-sleeve, lightweight, protects from scratches, rubber coating, multiple colors available, Accurate design and cut-outs for your device, snap-on design",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9995",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Funda de smartphone",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9995",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "€Ÿ·’Ÿ ‹ÿ‹‰’ﬂ ◊€›",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9995",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝K:§W",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9994",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Camcorder View",
+	"Description": "1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7\" wide LCD display",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9994",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "Camcorder View Dœ:",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9993",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Mini Tablet",
+	"Description": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use)",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9993",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ﬁ◊È— ‹’◊ Áÿﬂ",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9993",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "˜`s5",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9992",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smartphone Alpha",
+	"Description": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9992",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "ÿ‹‰’ﬂ ◊€› –‹‰–",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9992",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝K: Alpha H",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9991",
+	"LanguageForEdit": "DE",
+	"Language": "DE",
+	"Name": "Smartphone-Lederetui",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9991",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Smartphone Leather Case",
+	"Description": "Button Clasp, Quality Material, 100% Leather, compatible with many smartphone models",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9991",
+	"LanguageForEdit": "ES",
+	"Language": "ES",
+	"Name": "Funda de piel para smartphone",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9991",
+	"LanguageForEdit": "HE",
+	"Language": "HE",
+	"Name": "€Ÿ·’Ÿ ‚’Ë ‹ÿ‹‰’ﬂ ◊€›",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-9991",
+	"LanguageForEdit": "ZH",
+	"Language": "ZH",
+	"Name": "z˝K:ÆW",
+	"Description": "",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1251",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Astro Laptop 1516",
+	"Description": "Flexible Laptop with 2,5 GHz Quad Core, 15\" HD TN, 16 GB DDR SDRAM, 256 GB SSD, OS 10 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1252",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Astro Phone 6",
+	"Description": "6 inch 1280x800 HD display (216 ppi), Quad-core processor, 8 GB internal storage (actual formatted capacity will be less), 3050 mAh battery (Up to 8 hours of active use), grey or black",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1253",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Benda Laptop 1408",
+	"Description": "Flexible Laptop with 2,5 GHz Dual Core, 14\" HD+ TN, 8 GB DDR SDRAM, 324 GB SSD, OS 10 Pro",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1254",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Bending Screen 21HD",
+	"Description": "Optimum Hi-Resolution Widescreen max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1255",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Broad Screen 22HD",
+	"Description": "Optimum Hi-Resolution Widescreen max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1256",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Cerdik Phone 7",
+	"Description": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1257",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Cepat Tablet 10.5",
+	"Description": "10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}, {
+	"DraftUUID": "00000000-0000-0000-0000-000000000000",
+	"Product": "HT-1258",
+	"LanguageForEdit": "EN",
+	"Language": "EN",
+	"Name": "Cepat Tablet 8",
+	"Description": "8-inch Multitouch HD Screen (2000 x 1500) 32GB Internal Memory, Wireless N Wi-Fi, Bluetooth, GPS Enabled, 1.5 GHz Quad-Core Processor",
+	"IsActiveEntity": true,
+	"HasActiveEntity": false,
+	"HasDraftEntity": false
+}]

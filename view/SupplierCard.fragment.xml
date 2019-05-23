@@ -1,0 +1,35 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core" xmlns:l="sap.ui.layout" xmlns:smartForm="sap.ui.comp.smartform" xmlns:smartField="sap.ui.comp.smartfield" xmlns:layout="sap.ui.layout" xmlns:commons="sap.ui.commons">
+		<l:HorizontalLayout id="HeaderLayout">
+			<core:Icon id="HeaderIcon" src="sap-icon://account" size="2rem" class="sapUiSmallMargin"/>
+			<l:VerticalLayout id="HeaderInfo" class="sapUiSmallMargin">
+				<Title id="HeaderTitle" text="{to_Supplier/CompanyName}" />
+				<Text id="HeaderDesc" text="{to_Supplier/to_PrimaryContactPersonType/FormattedContactName}" />
+			</l:VerticalLayout>
+		</l:HorizontalLayout>
+			<smartForm:SmartForm id="MainForm" title=" " editable="true" entityType="Header" binding="{path:'to_Supplier'}">
+				<smartForm:groups>
+					<smartForm:Group id="ContactDetails" label="{i18n>xtit.contactDetails}">
+						<smartForm:GroupElement id="ContactDetails.Phone">
+							<smartField:SmartField value="{PhoneNumber}"/>
+						</smartForm:GroupElement>
+						<smartForm:GroupElement id="ContactDetails.Email" >
+							<smartField:SmartField value="{EmailAddress}"/>
+						</smartForm:GroupElement>
+					</smartForm:Group>
+					<smartForm:Group id="MainContact" label="{i18n>xtit.mainContact}"  binding="{path:'to_PrimaryContactPersonType'}">
+						<smartForm:GroupElement id="MainContact.Name">
+							<smartField:SmartField value="{FormattedContactName}"/>
+						</smartForm:GroupElement>
+						<smartForm:GroupElement id="MainContact.Mobile" >
+							<smartField:SmartField value="{MobilePhoneNumber}"/>
+						</smartForm:GroupElement>
+						<smartForm:GroupElement id="MainContact.Language" >
+							<smartField:SmartField value="{PreferredLanguage}"/>
+						</smartForm:GroupElement>
+					</smartForm:Group>
+				</smartForm:groups>
+				<smartForm:layout>
+					<smartForm:Layout gridDataSpan = "L12 M12 S12"/>
+				</smartForm:layout>
+			</smartForm:SmartForm>
+</core:FragmentDefinition>

@@ -1,0 +1,68 @@
+.clippy-dialog {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #16263fee;
+    border-radius: 5px;
+    width: 30vw;
+    height: 50vh;
+    color: white;
+    padding: 5px;
+}
+
+.clippy-bottom-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 10;
+}
+
+.area-wrapper {
+    text-align: center;
+    width: calc(100% - 60px);
+}
+
+.send-box {
+    display: flex;
+    margin: 10px;
+}
+
+
+
+.textarea-input {
+    width: calc(100% - 20px);
+    height: 100%;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background: rgba(0,0,0,.2);
+    resize: none;
+    color: white;
+}
+
+.you {
+    text-align: right;
+}
+.list-wrapper {
+    height: calc(100% - 70px);
+    overflow-y: scroll;
+}
+.clippy-msg {
+    margin: 10px 20px;
+    background-color: #33496b;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.clippy-button {
+    background: #6499ea;
+    border: 0;
+    border-radius: 9px;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    margin: 5px;
+}
+
+.w3-animate-fading{animation:fading .5s 1}@keyframes fading{0%{opacity:0}100%{opacity:1}}
+

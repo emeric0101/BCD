@@ -1,0 +1,301 @@
+[{
+	"Language": "DE",
+	"MonthNumber": 1,
+	"MonthName": "Januar",
+	"MonthShortName": "JAN"
+}, {
+	"Language": "DE",
+	"MonthNumber": 2,
+	"MonthName": "Februar",
+	"MonthShortName": "FEB"
+}, {
+	"Language": "DE",
+	"MonthNumber": 3,
+	"MonthName": "März",
+	"MonthShortName": "MAR"
+}, {
+	"Language": "DE",
+	"MonthNumber": 4,
+	"MonthName": "April",
+	"MonthShortName": "APR"
+}, {
+	"Language": "DE",
+	"MonthNumber": 5,
+	"MonthName": "Mai",
+	"MonthShortName": "MAI"
+}, {
+	"Language": "DE",
+	"MonthNumber": 6,
+	"MonthName": "Juni",
+	"MonthShortName": "JUN"
+}, {
+	"Language": "DE",
+	"MonthNumber": 7,
+	"MonthName": "Juli",
+	"MonthShortName": "JUL"
+}, {
+	"Language": "DE",
+	"MonthNumber": 8,
+	"MonthName": "August",
+	"MonthShortName": "AUG"
+}, {
+	"Language": "DE",
+	"MonthNumber": 9,
+	"MonthName": "September",
+	"MonthShortName": "SEP"
+}, {
+	"Language": "DE",
+	"MonthNumber": 10,
+	"MonthName": "Oktober",
+	"MonthShortName": "OKT"
+}, {
+	"Language": "DE",
+	"MonthNumber": 11,
+	"MonthName": "November",
+	"MonthShortName": "NOV"
+}, {
+	"Language": "DE",
+	"MonthNumber": 12,
+	"MonthName": "Dezember",
+	"MonthShortName": "DEZ"
+}, {
+	"Language": "EN",
+	"MonthNumber": 1,
+	"MonthName": "January",
+	"MonthShortName": "JAN"
+}, {
+	"Language": "EN",
+	"MonthNumber": 2,
+	"MonthName": "February",
+	"MonthShortName": "FEB"
+}, {
+	"Language": "EN",
+	"MonthNumber": 3,
+	"MonthName": "March",
+	"MonthShortName": "MAR"
+}, {
+	"Language": "EN",
+	"MonthNumber": 4,
+	"MonthName": "April",
+	"MonthShortName": "APR"
+}, {
+	"Language": "EN",
+	"MonthNumber": 5,
+	"MonthName": "May",
+	"MonthShortName": "MAY"
+}, {
+	"Language": "EN",
+	"MonthNumber": 6,
+	"MonthName": "June",
+	"MonthShortName": "JUN"
+}, {
+	"Language": "EN",
+	"MonthNumber": 7,
+	"MonthName": "July",
+	"MonthShortName": "JUL"
+}, {
+	"Language": "EN",
+	"MonthNumber": 8,
+	"MonthName": "August",
+	"MonthShortName": "AUG"
+}, {
+	"Language": "EN",
+	"MonthNumber": 9,
+	"MonthName": "September",
+	"MonthShortName": "SEP"
+}, {
+	"Language": "EN",
+	"MonthNumber": 10,
+	"MonthName": "October",
+	"MonthShortName": "OCT"
+}, {
+	"Language": "EN",
+	"MonthNumber": 11,
+	"MonthName": "November",
+	"MonthShortName": "NOV"
+}, {
+	"Language": "EN",
+	"MonthNumber": 12,
+	"MonthName": "December",
+	"MonthShortName": "DEC"
+}, {
+	"Language": "FR",
+	"MonthNumber": 1,
+	"MonthName": "Janvier",
+	"MonthShortName": "JAN"
+}, {
+	"Language": "FR",
+	"MonthNumber": 2,
+	"MonthName": "Février",
+	"MonthShortName": "FEV"
+}, {
+	"Language": "FR",
+	"MonthNumber": 3,
+	"MonthName": "Mars",
+	"MonthShortName": "MAR"
+}, {
+	"Language": "FR",
+	"MonthNumber": 4,
+	"MonthName": "Avril",
+	"MonthShortName": "AVR"
+}, {
+	"Language": "FR",
+	"MonthNumber": 5,
+	"MonthName": "Mai",
+	"MonthShortName": "MAI"
+}, {
+	"Language": "FR",
+	"MonthNumber": 6,
+	"MonthName": "Juin",
+	"MonthShortName": "JUN"
+}, {
+	"Language": "FR",
+	"MonthNumber": 7,
+	"MonthName": "Juillet",
+	"MonthShortName": "JUL"
+}, {
+	"Language": "FR",
+	"MonthNumber": 8,
+	"MonthName": "Août",
+	"MonthShortName": "AOU"
+}, {
+	"Language": "FR",
+	"MonthNumber": 9,
+	"MonthName": "Septembre",
+	"MonthShortName": "SEP"
+}, {
+	"Language": "FR",
+	"MonthNumber": 10,
+	"MonthName": "Octobre",
+	"MonthShortName": "OCT"
+}, {
+	"Language": "FR",
+	"MonthNumber": 11,
+	"MonthName": "Novembre",
+	"MonthShortName": "NOV"
+}, {
+	"Language": "FR",
+	"MonthNumber": 12,
+	"MonthName": "Décembre",
+	"MonthShortName": "DEC"
+}, {
+	"Language": "NL",
+	"MonthNumber": 1,
+	"MonthName": "Januari",
+	"MonthShortName": "JAN"
+}, {
+	"Language": "NL",
+	"MonthNumber": 2,
+	"MonthName": "Februari",
+	"MonthShortName": "FEB"
+}, {
+	"Language": "NL",
+	"MonthNumber": 3,
+	"MonthName": "Maart",
+	"MonthShortName": "MRT"
+}, {
+	"Language": "NL",
+	"MonthNumber": 4,
+	"MonthName": "April",
+	"MonthShortName": "APR"
+}, {
+	"Language": "NL",
+	"MonthNumber": 5,
+	"MonthName": "Mei",
+	"MonthShortName": "MEI"
+}, {
+	"Language": "NL",
+	"MonthNumber": 6,
+	"MonthName": "Juni",
+	"MonthShortName": "JUN"
+}, {
+	"Language": "NL",
+	"MonthNumber": 7,
+	"MonthName": "Juli",
+	"MonthShortName": "JUL"
+}, {
+	"Language": "NL",
+	"MonthNumber": 8,
+	"MonthName": "Augustus",
+	"MonthShortName": "AUG"
+}, {
+	"Language": "NL",
+	"MonthNumber": 9,
+	"MonthName": "September",
+	"MonthShortName": "SEP"
+}, {
+	"Language": "NL",
+	"MonthNumber": 10,
+	"MonthName": "Oktober",
+	"MonthShortName": "OKT"
+}, {
+	"Language": "NL",
+	"MonthNumber": 11,
+	"MonthName": "November",
+	"MonthShortName": "NOV"
+}, {
+	"Language": "NL",
+	"MonthNumber": 12,
+	"MonthName": "December",
+	"MonthShortName": "DEC"
+}, {
+	"Language": "ES",
+	"MonthNumber": 1,
+	"MonthName": "Enero",
+	"MonthShortName": "Ene"
+}, {
+	"Language": "ES",
+	"MonthNumber": 2,
+	"MonthName": "Febrero",
+	"MonthShortName": "Feb"
+}, {
+	"Language": "ES",
+	"MonthNumber": 3,
+	"MonthName": "Marzo",
+	"MonthShortName": "Mar"
+}, {
+	"Language": "ES",
+	"MonthNumber": 4,
+	"MonthName": "Abril",
+	"MonthShortName": "Abr"
+}, {
+	"Language": "ES",
+	"MonthNumber": 5,
+	"MonthName": "Mayo",
+	"MonthShortName": "May"
+}, {
+	"Language": "ES",
+	"MonthNumber": 6,
+	"MonthName": "Junio",
+	"MonthShortName": "Jun"
+}, {
+	"Language": "ES",
+	"MonthNumber": 7,
+	"MonthName": "Julio",
+	"MonthShortName": "Jul"
+}, {
+	"Language": "ES",
+	"MonthNumber": 8,
+	"MonthName": "Agosto",
+	"MonthShortName": "Ago"
+}, {
+	"Language": "ES",
+	"MonthNumber": 9,
+	"MonthName": "Septiembre",
+	"MonthShortName": "Sep"
+}, {
+	"Language": "ES",
+	"MonthNumber": 10,
+	"MonthName": "Octubre",
+	"MonthShortName": "Oct"
+}, {
+	"Language": "ES",
+	"MonthNumber": 11,
+	"MonthName": "Noviembre",
+	"MonthShortName": "Nov"
+}, {
+	"Language": "ES",
+	"MonthNumber": 12,
+	"MonthName": "Diciembre",
+	"MonthShortName": "Dic"
+}]

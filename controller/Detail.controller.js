@@ -174,6 +174,8 @@ sap.ui.define([
 					sObjectName = oObject.OrderID,
 					oViewModel = this.getModel("detailView");
 
+					customChatViewService.registerContext('orderid', sObjectId);
+
 				this.getOwnerComponent().oListSelector.selectAListItem(sPath);
 
 				oViewModel.setProperty("/shareSendEmailSubject",

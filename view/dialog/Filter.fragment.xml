@@ -1,0 +1,28 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<ViewSettingsDialog id="filterSettingsDialog" confirm="onFilterDialogConfirm">
+		<filterItems>
+			<ViewSettingsFilterItem id="availibilityFilterItem" text="{i18n>xfld.availability}" key="Availibility"
+				items="{path: '/SEPMRA_I_StockAvailability', sorter: {path: 'StockAvailability', descending: false} }">
+				<items>
+					<ViewSettingsItem id="availabilityItem" text="{StockAvailability_Text}" key="{StockAvailability}"/>
+				</items>
+			</ViewSettingsFilterItem>
+			<ViewSettingsFilterItem id="priceFilterItem" text="{/#SEPMRA_C_PD_ProductType/Price/@sap:label}" key="Price">
+				<items>
+					<ViewSettingsItem id="le100Item" text="{masterView>/LE100}" key="LE100"/>
+					<ViewSettingsItem id="bt100-500Item" text="{masterView>/BT100-500}" key="BT100-500"/>
+					<ViewSettingsItem id="bt500-1000Item" text="{masterView>/BT500-1000}" key="BT500-1000"/>
+					<ViewSettingsItem id="gt1000Item" text="{masterView>/GT1000}" key="GT1000"/>
+				</items>
+			</ViewSettingsFilterItem>
+			<ViewSettingsFilterItem id="statusFilterItem" text="{i18n>xfld.editingStatus}" key="IsActiveEntity" multiSelect="false">
+				<items>
+					<ViewSettingsItem text="{i18n>xfld.editingActive}" key="editingActive"/>
+					<ViewSettingsItem text="{i18n>xfld.editingDraft}" key="editingDraft"/>
+					<ViewSettingsItem text="{i18n>xfld.editingLocked}" key="editingLocked"/>
+					<ViewSettingsItem text="{i18n>xfld.editingUnsavedChanges}" key="editingUnsavedChanges"/>
+				</items>
+			</ViewSettingsFilterItem>
+		</filterItems>
+	</ViewSettingsDialog>
+</core:FragmentDefinition>

@@ -1,0 +1,48 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.ProductSupplierForm"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:smartField="sap.ui.comp.smartfield"
+	xmlns:smartLink="sap.ui.comp.navpopover"
+	xmlns:smartForm="sap.ui.comp.smartform">
+	<smartForm:SmartForm
+		id="supplierForm"
+		editable="false"
+		ignoredFields="TransactionCode">
+		<smartForm:Group id="SupplierFormGeneralGroup" label="{i18n>xtit.supplierCompanyInformation}">
+			<smartForm:GroupElement id="SupplierFormGeneral.CompanyName" label="{CompanyName/#@sap:label}">
+				<smartLink:SmartLink
+					id="SupplierFormGeneral.CompanyName.Link"
+					text="{CompanyName}"
+					fieldName="SupplierId"
+					semanticObject="semanticObjectSupplierId" />
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormGeneral.PhoneNumber">
+				<smartField:SmartField value="{PhoneNumber}" id="SupplierFormGeneral.PhoneNumber.Field"/>
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormGeneral.FaxNumber">
+				<smartField:SmartField value="{FaxNumber}" id="SupplierFormGeneral.FaxNumber.Field"/>
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormGeneral.URL">
+				<smartField:SmartField value="{URL}" id="SupplierFormGeneral.URL.Field"/>
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormGeneral.CustomField" label="{i18n>customFieldLabel}">
+				<Text text="{i18n>customFieldValue}" id="SupplierFormGeneral.CustomField.Field"/>
+			</smartForm:GroupElement>
+		</smartForm:Group>
+		<smartForm:Group id="SupplierFormPersonGroup" label="{i18n>xtit.supplierContactPerson}">
+			<smartForm:GroupElement id="SupplierFormPerson.FirstName">
+				<smartField:SmartField value="{FirstName}" id="SupplierFormPerson.FirstName.Field"/>
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormPerson.LastName">
+				<smartField:SmartField value="{LastName}" id="SupplierFormPerson.LastName.Field"/>
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormPerson.PhoneNumber">
+				<smartField:SmartField value="{PhoneNumber}" id="SupplierFormPerson.PhoneNumber.Field"/>
+			</smartForm:GroupElement>
+			<smartForm:GroupElement id="SupplierFormPerson.EmailAddress">
+				<smartField:SmartField value="{EmailAddress}" id="SupplierFormPerson.EmailAddress.Field"/>
+			</smartForm:GroupElement>
+		</smartForm:Group>
+	</smartForm:SmartForm>
+</mvc:View>

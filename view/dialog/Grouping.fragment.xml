@@ -1,0 +1,10 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core">
+	<ViewSettingsDialog id="groupingSettingsDialog" confirm="onGroupingDialogConfirmed">
+		<groupItems>
+			<ViewSettingsItem text="{/#SEPMRA_I_ProductMainCategoryType/MainProductCategory/@sap:label}" key="to_ProductCategory/MainProductCategory"/>
+			<ViewSettingsItem text="{/#SEPMRA_C_PD_ProductType/ProductCategory/@sap:label}" key="ProductCategory"/>
+			<ViewSettingsItem text="{i18n>xfld.availability}" key="to_ProductStock/Quantity"/>
+			<ViewSettingsItem text="{/#SEPMRA_C_PD_ProductType/Price/@sap:label}" key="Price"/>
+		</groupItems>
+	</ViewSettingsDialog>
+</core:FragmentDefinition>

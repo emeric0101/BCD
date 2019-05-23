@@ -1,0 +1,9 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.Root"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	displayBlock="true"
+	busy="{appProperties>/isAppBusy}"
+	busyIndicatorDelay="0">
+	<SplitApp id="idAppControl"/>
+</mvc:View>

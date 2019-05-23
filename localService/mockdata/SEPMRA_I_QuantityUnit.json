@@ -1,0 +1,133 @@
+[{
+	"UnitOfMeasure": "BAG",
+	"UnitOfMeasure_Text": "Bag",
+	"UnitOfMeasureISOCode": "BG"
+}, {
+	"UnitOfMeasure": "BT",
+	"UnitOfMeasure_Text": "Bottle",
+	"UnitOfMeasureISOCode": "BO"
+}, {
+	"UnitOfMeasure": "BOX",
+	"UnitOfMeasure_Text": "Box",
+	"UnitOfMeasureISOCode": "BX"
+}, {
+	"UnitOfMeasure": "003",
+	"UnitOfMeasure_Text": "Bottle",
+	"UnitOfMeasureISOCode": "BO"
+}, {
+	"UnitOfMeasure": "CV",
+	"UnitOfMeasure_Text": "Case",
+	"UnitOfMeasureISOCode": "CS"
+}, {
+	"UnitOfMeasure": "CSE",
+	"UnitOfMeasure_Text": "CSE",
+	"UnitOfMeasureISOCode": "CSE"
+}, {
+	"UnitOfMeasure": "DEG",
+	"UnitOfMeasure_Text": "Degree",
+	"UnitOfMeasureISOCode": "DD"
+}, {
+	"UnitOfMeasure": "DR",
+	"UnitOfMeasure_Text": "Drum",
+	"UnitOfMeasureISOCode": "DR"
+}, {
+	"UnitOfMeasure": "DZ",
+	"UnitOfMeasure_Text": "Dozen",
+	"UnitOfMeasureISOCode": "DZN"
+}, {
+	"UnitOfMeasure": "EA",
+	"UnitOfMeasure_Text": "each",
+	"UnitOfMeasureISOCode": "EA"
+}, {
+	"UnitOfMeasure": "GRO",
+	"UnitOfMeasure_Text": "Gross",
+	"UnitOfMeasureISOCode": "GRO"
+}, {
+	"UnitOfMeasure": "CAN",
+	"UnitOfMeasure_Text": "Canister",
+	"UnitOfMeasureISOCode": "CA"
+}, {
+	"UnitOfMeasure": "CAR",
+	"UnitOfMeasure_Text": "Carton",
+	"UnitOfMeasureISOCode": "CT"
+}, {
+	"UnitOfMeasure": "CRT",
+	"UnitOfMeasure_Text": "Crate",
+	"UnitOfMeasureISOCode": "BX"
+}, {
+	"UnitOfMeasure": "KIT",
+	"UnitOfMeasure_Text": "PatientKit",
+	"UnitOfMeasureISOCode": "CT"
+}, {
+	"UnitOfMeasure": "AU",
+	"UnitOfMeasure_Text": "AU",
+	"UnitOfMeasureISOCode": "C62"
+}, {
+	"UnitOfMeasure": "014",
+	"UnitOfMeasure_Text": "",
+	"UnitOfMeasureISOCode": "ZNS"
+}, {
+	"UnitOfMeasure": "PAA",
+	"UnitOfMeasure_Text": "Pair",
+	"UnitOfMeasureISOCode": "PR"
+}, {
+	"UnitOfMeasure": "PAC",
+	"UnitOfMeasure_Text": "Pack",
+	"UnitOfMeasureISOCode": "PK"
+}, {
+	"UnitOfMeasure": "PAL",
+	"UnitOfMeasure_Text": "Pallet",
+	"UnitOfMeasureISOCode": "PF"
+}, {
+	"UnitOfMeasure": "013",
+	"UnitOfMeasure_Text": "",
+	"UnitOfMeasureISOCode": "PCE"
+}, {
+	"UnitOfMeasure": "PER",
+	"UnitOfMeasure_Text": "Persons",
+	"UnitOfMeasureISOCode": "PCE"
+}, {
+	"UnitOfMeasure": "PNS",
+	"UnitOfMeasure_Text": "GRNSPA",
+	"UnitOfMeasureISOCode": "ZNS"
+}, {
+	"UnitOfMeasure": "PRS",
+	"UnitOfMeasure_Text": "Persons",
+	"UnitOfMeasureISOCode": "IE"
+}, {
+	"UnitOfMeasure": "RL",
+	"UnitOfMeasure_Text": "Reel",
+	"UnitOfMeasureISOCode": "RL"
+}, {
+	"UnitOfMeasure": "ROL",
+	"UnitOfMeasure_Text": "Role",
+	"UnitOfMeasureISOCode": "RO"
+}, {
+	"UnitOfMeasure": "015",
+	"UnitOfMeasure_Text": "",
+	"UnitOfMeasureISOCode": "3H"
+}, {
+	"UnitOfMeasure": "SCM",
+	"UnitOfMeasure_Text": "SCM",
+	"UnitOfMeasureISOCode": "SCM"
+}, {
+	"UnitOfMeasure": "SET",
+	"UnitOfMeasure_Text": "SET",
+	"UnitOfMeasureISOCode": "SET"
+}, {
+	"UnitOfMeasure": "SHT",
+	"UnitOfMeasure_Text": "Sheet",
+	"UnitOfMeasureISOCode": "ST"
+}, {
+	"UnitOfMeasure": "PC",
+	"UnitOfMeasure_Text": "Piece",
+	"UnitOfMeasureISOCode": "PCE"
+}, {
+	"UnitOfMeasure": "TS",
+	"UnitOfMeasure_Text": "Thousands",
+	"UnitOfMeasureISOCode": "MIL"
+}, {
+	"UnitOfMeasure": "UK",
+	"UnitOfMeasure_Text": "Carton box",
+	"UnitOfMeasureISOCode": "PA"
+}]

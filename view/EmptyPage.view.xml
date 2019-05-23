@@ -1,0 +1,8 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" height="100%" controllerName="sap.ui.demoapps.rta.freestyle.controller.EmptyPage">
+	<MessagePage
+		id="messagePage"
+		showNavButton="{device>/system/phone}"
+		navButtonPress="onNavBack"
+		text="{appProperties>/emptyText}"
+		description=""/>
+</mvc:View>

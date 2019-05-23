@@ -1,0 +1,120 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.ProductDetail"
+	xmlns:m="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:semantic="sap.m.semantic"
+	xmlns:layout="sap.ui.layout"
+	xmlns="sap.uxap">
+	<semantic:DetailPage
+		id="page"
+		navButtonPress="onNavBack"
+		showNavButton="{device>/system/phone}"
+		title="{i18n>xtit.product}"
+		busy="{= !(${displayView>/dataLoaded} || ${displayView>/showsMessage}) }"
+		busyIndicatorDelay="{= ${appProperties>/detailImmediateBusy} ? 0 : ${displayView>/originalBusyDelay} }">
+		<semantic:customHeaderContent>
+			<m:Button text="{i18n>xbut.adaptui}" visible="{app>/showAdaptButton}" press="switchToAdaptionMode" />
+		</semantic:customHeaderContent>
+		<semantic:content>
+			<ObjectPageLayout id="ProductDetailLayout" flexEnabled="true">
+				<headerTitle>
+					<ObjectPageHeader
+						id="DetailHeader"
+						objectTitle="{to_ProductTextInOriginalLang/Name}"
+						objectSubtitle="{Product}">
+					</ObjectPageHeader>
+				</headerTitle>
+				<headerContent>
+					<layout:VerticalLayout
+						id="DetailHeaderContent"
+						width="calc(100% - 2rem)">
+						<m:FlexBox
+							id="headerLine"
+							fitContainer="true"
+							renderType="Bare"
+							wrap="Wrap">
+							<m:items>
+								<layout:VerticalLayout id="headerImage" class="sapUiSmallMarginEnd sapUiSmallMarginBottom">
+									<layout:layoutData>
+										<m:FlexItemData growFactor="1" minWidth="116px"/>
+									</layout:layoutData>
+									<m:Image
+										src="{path: 'ProductPictureURL', formatter: '.formatter.formatImageUrl'}"
+										id="productImage"
+										densityAware="false"
+										width="6rem"
+										press="onImagePressed">
+									</m:Image>
+								</layout:VerticalLayout>
+								<layout:VerticalLayout id="headerCategoryBlock" class="sapUiSmallMarginEnd sapUiSmallMarginBottom">
+									<layout:layoutData>
+										<m:FlexItemData growFactor="10" minWidth="250px"/>
+									</layout:layoutData>
+									<m:ObjectStatus id="headerMainCategory" title="{/#SEPMRA_I_ProductMainCategoryType/MainProductCategory/@sap:label}" text="{to_ProductCategory/MainProductCategory}"/>
+									<m:ObjectStatus id="headerProductCategory" title="{/#SEPMRA_C_PD_ProductType/ProductCategory/@sap:label}" text="{to_ProductCategory/ProductCategory}"/>
+									<m:ObjectStatus id="headerSupplierName" title="{/#SEPMRA_C_PD_Supplier/CompanyName/@sap:label}" text="{to_Supplier/CompanyName}"/>
+								</layout:VerticalLayout>
+								<layout:VerticalLayout id="headerPriceBlock" class="sapUiSmallMarginEnd">
+									<layout:layoutData>
+										<m:FlexItemData minWidth="150px" maxWidth="150px"/>
+									</layout:layoutData>
+									<m:ObjectNumber id="headerPrice" number="{parts: [ {path: 'Price'}, {path: 'Currency'}], type : 'sap.ui.model.type.Currency', formatOptions: { showMeasure: false } }" unit="{Currency}" class="sapUiSmallMarginBottom" />
+									<m:ObjectStatus
+										id="headerAvailability"
+										text="{parts: [
+												{path: 'to_ProductStock/to_StockAvailability/StockAvailability_Text'},
+												{path: 'to_ProductStock/StockAvailability'},
+												{path: 'to_ProductStock/Quantity', type: 'sap.ui.model.odata.type.Decimal', formatOptions: {style: 'short'} }
+											],
+											formatter: '.formatter.formatAvailabilityTextFromCode'}"
+										state="{path: 'to_ProductStock/StockAvailability', formatter: '.formatter.formatAvailabilityStatusFromCode'}"/>
+								</layout:VerticalLayout>
+							</m:items>
+						</m:FlexBox>
+					</layout:VerticalLayout>
+				</headerContent>
+				<sections>
+					<ObjectPageSection id="ObjectSectionGeneral" title="{i18n>xtit.generalInfo}">
+						<subSections>
+							<ObjectPageSubSection id="SubSectionGeneral" title="{i18n>xtit.generalInfo}" mode="Expanded">
+								<blocks>
+									<mvc:XMLView async="true" id="GeneralForm" viewName="sap.ui.demoapps.rta.freestyle.view.form.ProductGeneral"/>
+								</blocks>
+							</ObjectPageSubSection>
+						</subSections>
+					</ObjectPageSection>
+					<ObjectPageSection id="ObjectSectionTechnical" title="{i18n>xtit.techData}" visible="false">
+						<subSections>
+							<ObjectPageSubSection id="SubSectionTechnical" title="{i18n>xtit.techData}" mode="Expanded">
+								<blocks>
+									<mvc:XMLView async="true" id="TechnicalForm" viewName="sap.ui.demoapps.rta.freestyle.view.form.ProductTechnical"/>
+								</blocks>
+							</ObjectPageSubSection>
+						</subSections>
+					</ObjectPageSection>
+					<ObjectPageSection id="ObjectSectionSupplier" title="{i18n>xtit.supplier}">
+						<subSections>
+							<ObjectPageSubSection id="SubSectionSupplier" mode="Expanded" title="{i18n>xtit.supplier}">
+								<blocks>
+									<mvc:XMLView async="true" id="SupplierForm" viewName="sap.ui.demoapps.rta.freestyle.view.form.ProductSupplier"/>
+								</blocks>
+							</ObjectPageSubSection>
+						</subSections>
+					</ObjectPageSection>
+				</sections>
+			</ObjectPageLayout>
+		</semantic:content>
+		<semantic:editAction>
+			<semantic:EditAction id="edit" press="onEdit"/>
+		</semantic:editAction>
+		<semantic:deleteAction>
+			<semantic:DeleteAction id="delete" press="onDelete"/>
+		</semantic:deleteAction>
+		<semantic:customFooterContent>
+			<m:Button id="copyButton" text="{i18n>xbut.copy}" press="onCopy"/>
+		</semantic:customFooterContent>
+		<semantic:sendEmailAction>
+			<semantic:SendEmailAction id="shareEmail" press="sendEmail"/>
+		</semantic:sendEmailAction>
+	</semantic:DetailPage>
+</mvc:View>

@@ -1,0 +1,28 @@
+<mvc:View
+	controllerName="sap.ui.demoapps.rta.freestyle.controller.ProductGeneralForm"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:f="sap.ui.layout.form"
+	xmlns:control="sap.ui.demoapps.rta.freestyle.control">
+	<f:SimpleForm id="generalForm"
+		class="sapUiForceWidthAuto sapUiResponsiveMargin"
+		editable="false"
+		layout="ResponsiveGridLayout"
+		singleContainerFullSize="false">
+		<f:content>
+			<Label id="productLabel" text="{ProductForEdit/#@sap:label}"/>
+			<Text id="productText" text="{ProductForEdit}"/>
+			<Label id="descriptionLabel" text="{/#SEPMRA_C_PD_ProductTextType/Description/@sap:label}"/>
+			<Text id="descriptionText" text="{to_ProductTextInOriginalLang/Description}"/>
+			<Label id="supplierLabel" text="{Supplier/#@sap:label}"/>
+			<Link id="supplierText" text="{to_Supplier/CompanyName}" press="onSupplierPressed" class="sapUiForceWidthAuto"/>
+			<Label id="ratingLabel" text="{/#SEPMRA_C_PD_ReviewType/AverageRatingValue/@sap:label}"/>
+			<control:RatingAndCount
+				id="ratingText"
+				maxRatingValue="5"
+				value="{to_CollaborativeReview/AverageRatingValue}"
+				enabled="false"
+				ratingCount="{to_CollaborativeReview/NumberOfReviewPosts}"/>
+		</f:content>
+	</f:SimpleForm>
+</mvc:View>
