@@ -1,0 +1,29 @@
+{
+  "name": "language-detection",
+  "version": "1.0.0",
+  "description": "a simple example",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drefter/ml-hackathon.git"
+  },
+  "author": "peter snowdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drefter/ml-hackathon/issues"
+  },
+  "homepage": "https://github.com/drefter/ml-hackathon#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "dotenv": "^8.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
