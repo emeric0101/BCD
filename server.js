@@ -21,41 +21,25 @@ var app = express();
 var srcDir = path.resolve(__dirname);
 var file;
 
-app.get('/api/detect', function(req, res){
-  parseJSONBody(req, function(j){      
-    callLMLSandbox("https://sandbox.api.sap.com/ml/api/v2alpha1/text/lang-detect/", j, function(body){
-      console.log(JSON.parse(body));
-      res.send(body)
-    });
-  })
-});
-
 // Récupération des shipping details à partir de l'order ID
-app.get('/api/shipping/:orderid', function(req, res){
+app.post('/api/shipping/:orderid', function(req, res){
   const orderid = req.params.orderid; // on récupère l'orderid
   parseJSONBody(req, function(j){
     let order = orders.find(e => e.OrderID == orderid); // On compare l'order id à ceux présents dans le JSON
-    res.send(order); // On renvoie les infos correspondantes
+    const anwser = {
+      "replies": [
+      ],
+      "conversation": {
+        "language": "en",
+        "memory": {
+          "current_order": order
+        }
+      }
+    }
+    res.send(anwser); // On renvoie les infos correspondantes
   })
 });
 
-// Récupération des processor informations
-app.get('/api/processor/:employeeid', function(req, res){
-  const employeeid = req.params.employeeid;
-  parseJSONBody(req, function(j){
-    let employee = employees.find(e => e.EmployeeID == employeeid);
-    res.send(employee);
-  })
-});
-
-// Récupération des orders_details (items)
-app.get('/api/order_details/:orderid', function(req, res){
-  const orderid = req.params.orderid;
-  parseJSONBody(req, function(j){
-    let orders_items = order_detail.find(e => e.OrderID == orderid);
-    res.send(order_items);
-  })
-});
 
 
 //the lightest HTTP server ever.
