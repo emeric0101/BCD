@@ -1,0 +1,11 @@
+---
+applications:
+
+- name: dispatch-bot
+  host: dispatch-bot
+  buildpack: nodejs_buildpack
+  memory: 512M
+  command: node server.js
+  instances: 1
+  random-route: true
+  

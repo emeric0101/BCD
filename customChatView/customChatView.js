@@ -4,8 +4,8 @@ const dispatcherBotToken = '38007a0d722620de50c7554170281b64';
 
 const botsToken = {
     'ACTION': 'b61f6ca83c801cb24a29aff073319136',
-    'INFO': 'f22732dc0be9b78c1335583689f3eda1'
-    // 'SUPPORT': ''
+    'INFO': 'f22732dc0be9b78c1335583689f3eda1',
+    'SUPPORT': 'ebf5b7ad7735b3f0bdcf421034d97217'
 }
 
 
@@ -13,6 +13,10 @@ class CaiService {
     conversationId = (new Date()).getTime();
     axiosInstance = null;
     constructor() {
+        this.reset();
+    }
+
+    reset() {
         this.axiosInstance = this.createInstance(dispatcherBotToken);
     }
 
@@ -51,10 +55,16 @@ class CaiService {
                     if (results.length == 1) {
                         const action = results[0].content;
                         if (botsToken[action]) {
-                            console.log("Switching to " + action);
+                            console.log("Switching to the bot" + action);
                             this.axiosInstance = this.createInstance(botsToken[action]);
                             resolve(await this.sendMessage(msg));
                         }
+                    }
+                    // end conversation ?
+                    const idEnd = results.find(e => e.content && e.content == 'END_CONVERSATION');
+                    if (idEnd) {
+                        idEnd.content = 'Anything else ?';
+                        this.reset();
                     }
                     resolve(results);
                 })
@@ -82,6 +92,8 @@ var customChatViewService = {
     },
     hideConversation() {
         ReactDOM.render(e(ChatButton), this.domContainer);
+        // reset dispatcher
+        this.caiService.reset();
     },
     getContext() {
         return this._context;
@@ -189,7 +201,7 @@ class ChatWindow extends React.Component {
                     type: "button",
                     className: 'clippy-button',
                     onClick: (e) => customChatViewService.hideConversation()
-                }, "Hide")
+                }, "Close")
 
             ),
         );
